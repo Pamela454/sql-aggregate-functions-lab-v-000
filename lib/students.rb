@@ -2,7 +2,7 @@
 
 def highest_student_gpa
   SELECT AVG(gpa) FROM students;
-end
+  end
 end
 
 def lowest_student_gpa
